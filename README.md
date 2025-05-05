@@ -19,18 +19,6 @@ We apply **Physics-Informed Neural Networks (PINNs)** and **Sparse Identificatio
 
 ---
 
-## 🧰 Setup Instructions
-
-You can run the notebooks directly in [Google Colab](https://colab.research.google.com/).  
-Click any of the links below:
-
-- 📓 [PINN - Single Ion Channel](colabs/PINN_SingleCurrent.ipynb)
-- 📓 [PINN - SINDy_and_Full Ionic Model](colabs/PINN_ExtendedModel.ipynb)
-
-> ⚠️ If opening from GitHub, click the **"Open in Colab"** badge or copy the notebook URL into Colab manually.
-
----
-
 ## 📦 Optional Local Setup
 
 If you'd like to run the notebooks locally, create a virtual environment and install:
