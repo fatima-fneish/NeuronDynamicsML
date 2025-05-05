@@ -14,9 +14,8 @@ We apply **Physics-Informed Neural Networks (PINNs)** and **Sparse Identificatio
 - `colabs/`: All Google Colab notebooks used in the project
 - `data/`: Intracellular voltage and injected current traces
 - `figures/`: Key plots exported from the notebooks
-- `results/`: Logs, predictions, learned conductances, etc.
 - `README.md`: This file
-- `requirements.txt`: (Optional) Python libraries, if running locally
+- `requirements.txt`: Python libraries, if running locally
 
 ---
 
@@ -26,8 +25,7 @@ You can run the notebooks directly in [Google Colab](https://colab.research.goog
 Click any of the links below:
 
 - 📓 [PINN - Single Ion Channel](colabs/PINN_SingleCurrent.ipynb)
-- 📓 [PINN - Full Ionic Model](colabs/PINN_ExtendedModel.ipynb)
-- 📓 [SINDy Modeling](colabs/SINDy_Modeling.ipynb)
+- 📓 [PINN - SINDy_and_Full Ionic Model](colabs/PINN_ExtendedModel.ipynb)
 
 > ⚠️ If opening from GitHub, click the **"Open in Colab"** badge or copy the notebook URL into Colab manually.
 
